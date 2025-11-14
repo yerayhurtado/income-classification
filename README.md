@@ -1,7 +1,7 @@
 Clasificación de Ingresos con Árboles de Decisión y Random Forest
 ==================================================================
 
-Este proyecto analiza y predice el nivel de ingresos de individuos utilizando técnicas de Machine Learning, específicamente Árboles de Decisión y Random Forest, sobre el dataset Adult Income (https://archive.ics.uci.edu/ml/datasets/adult).  
+Este proyecto analiza y predice el nivel de ingresos de individuos utilizando técnicas de Machine Learning, específicamente Árboles de Decisión y Random Forest, sobre el dataset Adult Income (https://www.kaggle.com/datasets/wenruliu/adult-income-dataset).  
 Se incluye un **informe completo** en PDF: `Clasificación_de_Ingresos_con_Árboles-de_Decisión_y_Random_Forest.pdf` adjuntado en el repositorio.
 
 Estructura del proyecto
